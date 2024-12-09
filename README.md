@@ -1,4 +1,5 @@
-AdventureWorks2019 Question 2 What is the relationship between annual leave taken and bonus?
+Question 2 What is the relationship between annual leave taken and bonus?
+
 Data Analysis based on AdventureWorks2019.bak database.
 
 LeaveTaken_Bonus.ipynb
