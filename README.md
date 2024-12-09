@@ -15,3 +15,5 @@ The analysis found a strong correlation between vacation hours and bonuses that 
 Conclusion:
 
 Based on the analysis, it can be concluded that there is a positive relationship between annual leave and bonus payments. The analysis clearly advises the company to evaluate its vacation hours policy, since the relationship between performance and bonuses is quite strong. This will also help improve employee motivation and the quality of their work.Further investigations and adjustments based on these findings can contribute to the overall success and well-being of the workforce.
+
+![image](https://github.com/user-attachments/assets/47323bd4-7b2d-4114-9e27-4acc89e8bb49)
